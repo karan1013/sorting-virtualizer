@@ -1,4 +1,6 @@
-►Feature
+A static website for visualizing different comparison based sorting algorithms is mentioned below : 
+
+Feature
 
 •Sorting Visualising
 
@@ -10,6 +12,6 @@
 
 •Custom array input
 
-A static website for visualizing different comparison based sorting algorithms is mentioned below :
+
 
 
