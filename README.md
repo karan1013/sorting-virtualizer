@@ -1,6 +1,6 @@
-A static website for visualizing different comparison based sorting algorithms is mentioned below : 
+A static website for visualizing different comparison based sorting algorithms is mentioned : 
 
-Feature
+Feature are mentioned below:
 
 •Sorting Visualising
 
