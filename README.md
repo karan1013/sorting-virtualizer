@@ -1,5 +1,3 @@
-A static website for visualizing different comparison based sorting algorithms.
-
 ►Feature
 
 •Sorting Visualising
@@ -11,3 +9,7 @@ A static website for visualizing different comparison based sorting algorithms.
 •Adjustable speed and size
 
 •Custom array input
+
+A static website for visualizing different comparison based sorting algorithms is mentioned below :
+
+
