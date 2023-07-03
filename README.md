@@ -1,13 +1,13 @@
 A static website for visualizing different comparison based sorting algorithms.
 
-**Features**
+►Feature
 
-Sorting Visualising
+•Sorting Visualising
 
-Algorithm selection
+•Algorithm selection
 
-Algorithm tweaking & rewriting
+•Algorithm tweaking & rewriting
 
-Adjustable speed and size
+•Adjustable speed and size
 
-Custom array input
+•Custom array input
