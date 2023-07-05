@@ -1,4 +1,5 @@
-A static website for visualizing different comparison based sorting algorithms is mentioned : https://sort.dimaglushkov.xyz/#
+A static website for visualizing different comparison based sorting algorithms is mentioned : 
+https://sort.dimaglushkov.xyz/#
 
 Feature are mentioned below:
 
